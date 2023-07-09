@@ -1,2 +1,5 @@
-# Tiendita-OXXO
-Ejemplo de una software para un OXXO en Java
+#	Tiendita OXXO
+
+
+## Vista
+<p align="center"><img src="1.png"></p>
